@@ -28,4 +28,4 @@ spring Data REST 에 대해서 설명해줘 간단한 crud 가능한 예제를 �
 - spring boot 는 3.1 대 버전을 사용해줘
 - Order, OrderItem 으로 도메인을 만들어줘 테이블명은 orders, order_items 로 만들어줘
 - convertToDto, convertToEntity 통해서 dto와 entity 사이를 변환했으면 좋겠어.
-- 파일아름 구체적으로 고정 Orders, Items
+- 엔티티명은 Order, OrderItem 태이블명은 orders, order_item
